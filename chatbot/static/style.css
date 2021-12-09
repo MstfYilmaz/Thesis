@@ -1,0 +1,29 @@
+:root {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+
+hr{
+    color: #333333;
+    border: 0.2px solid black;
+    border-radius: 3px;
+}
+
+button{
+    border: none;
+    color: red;
+}
+
+.main{
+    
+    text-align: center;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+h4{
+    background-color: none;
+}
